@@ -35,4 +35,4 @@ Repon utan licensfil är ännu inte släppta för återanvändning. Fråga oss h
 
 ## KONTAKT
 
-viktor@lyresten.se
+viktor@maskinrepubliken.se
